@@ -6,7 +6,7 @@ This repository showcases various Linux skills. It includes scripts for automati
 ## Project Structure
 - **Automation Scripts**: Scripts to automate routine tasks such as user management, service monitoring, and backups.
 - **Configuration Files**: Nginx configurations and firewall rules.
-- **Documentation**: Detailed documentation explaining the purpose and usage of each component.
+  
 
 ## How to Use
 - Clone the repository.
