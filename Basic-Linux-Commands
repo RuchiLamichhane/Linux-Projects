@@ -1,3 +1,55 @@
-# Basic Linux Commands
--**pwd**: shows present working directory
+Basic Linux Commands
+-pwd: shows present working directory.
+-ls: list files and directories within the current working directory.
+-cd: used to change the current working directory
+-mkdir: create new directories.
+-rm: remove files.
+-rmdir: remove directories.
+-touch: create new empty files.
+-cp: copy files or directories from one location to another.
+-mv: move or rename files or directories.
+-cat: display the content of files, concatenate files and redirect output in terminal or files.
+-less: used for viewing files instead of opening the file. This is especially useful when dealing with large files.
+-head: outputs the first part of files.
+-tail: outputs the last part of files.
+-grep:(Global Regular Expression Print) searches files for lines that match a given pattern.
+      Example: grep 'hello' file.txt -
+      This will search for the word 'hello' in "file.txt" and print the lines where the pattern is found.
+-find: used to search and locate the list of files and directories based on conditions you specify for files that match the arguments.
+-man: used to display the user manual of any command we can run on the terminal.
+-sudo (superuser do): used to perform tasks that require administrative or root permissions.
+-df (disk filesystem): used to display the amount of disk space used and available on Linux file systems.
+-du (disk usage): used to estimate file and directory space usage.
+-ps (process status): provides information about the currently running processes, including their process identification numbers (PIDs).
+-kill : used to terminate processes manually.
+-tar: used to create and extract .tar or .tar.gz archives.
+-chmod: used to change the permissions of a file or a directory.
+-chown: used to change the owner and group of a file or directory.
+-ssh (secure shell): used to log into a remote machine and work directly on the remote machine.
+-wget: It is a free utility that non-interactively downloads files
+from the Web. It supports HTTP, HTTPS, and FTP protocols, and can retrieve files
+through HTTP proxies
+-curl: curl is used in command lines or scripts to transfer data. It supports a
+range of protocols like HTTP, HTTPS, FTP, FTPS, SCP, SFTP, etc.
+-top(table of process): used to show the Linux processes. It provides a live,
+real-time view of the running system.
+-alias: used to create an alias (shortcut) for another command.
+-echo: used to display lines of text or string on standard output or a file.
+-exit: used to exit the shell where it is currently running. It takes one more parameter as [N] and exits the shell with a return of
+status N.
+-gzip: compress a file using the gzip compression protocol named LZ77 using the gzip command.
+-whoami: to print the user name currently logged in to the terminal session
+-ping: pings a specific network host, on the local network or on the Internet.
+-traceroute: used to track in real-time the pathway taken by a packet on an IP network from source to destination, reporting the IP addresses of all the routers it pinged in between.
+-ifconfig:Display network interface information. 
+-ip: Show/manipulate routing, devices, policy routing, and tunnels.
+-route: Display or manipulate the IP routing table.
+-
+-
+-
+-
+-
+-
+-
+-
 
