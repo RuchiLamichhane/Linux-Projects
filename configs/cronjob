@@ -1,0 +1,5 @@
+#To open the crontab editor for the current user
+#crontab -e
+#create script.sh to set-up task
+#add cronjob
+#0 0 * * * /path/to/script.sh >> /path/to/logfile.log 2>&1
